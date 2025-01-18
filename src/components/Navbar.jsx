@@ -7,7 +7,7 @@ export const Navbar = (props) => {
     <>
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <a className="navbar-brand" href="#"><img className="logo" src={logo} alt="logo" /></a>
+          <a className="navbar-brand" href="#"><img className="logo" src='https://api.logo.com/api/v2/images?design=lg_IRph8Buq1TjbWDbse4&format=webp&width=2000&background=transparent&fit=contain&quality=100&u=b860f5e4304f09262b2f5d87b2f02b559f9b065e4d33de3a38396b985b7568e7' alt="logo" /></a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
